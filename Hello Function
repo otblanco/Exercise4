@@ -1,0 +1,10 @@
+def main():
+    print("This is the main function.")
+
+def hello():
+    print("Hello!")
+
+
+main()
+
+hello()
