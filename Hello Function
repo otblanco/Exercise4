@@ -8,3 +8,9 @@ def hello():
 main()
 
 hello()
+
+
+def say_goodbye():
+    print("Goodbye")
+
+say_goodbye()
